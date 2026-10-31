@@ -5,10 +5,12 @@ title: "Daniel Yoon"
 
 **Ph.D. Candidate in Political Science | George Washington University**
 
-I am a political scientist specializing in International Relations and Iinternational Security. My research examines great power politics in an age of increasing political polarization and democratic erosion.
+![](images/headshot.jpg){width=220px}
+
+Welcome! I am a political scientist specializing in International Relations and International Security. My research examines great power politics in an age of increasing political polarization and democratic erosion.
 
 My dissertation develops a novel theory of strategic exploitation that explains the conditions under which great powers exploit adversaries experiencing domestic political instability, and the conditions under which they refrain from doing so.
 
-My broader research interests include international security, great power competition, strategic restraint, foreign policy decision-making, and the historical foundations of international order.
+My broader research interests include international security, great power rivalry, strategic restraint, foreign policy decision-making, and the historical foundations of international order.
 
 [Download Curriculum Vitae (PDF)](cv.pdf){.btn .btn-primary}
