@@ -1,0 +1,34 @@
+
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - cv.pdf
+
+website:
+  title: "Daniel Yoon"
+  
+navbar:
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "Research"
+      href: research.qmd
+    - text: "Publications"
+      href: publications.qmd
+    - text: "Teaching"
+      href: teaching.qmd
+    - text: "Public Engagement"
+      href: policy.qmd
+    - text: "Curriculum Vitae"
+      href: cv.pdf
+    - text: "Contact"
+      href: contact.qmd
+
+  page-footer:
+    center: "© 2026 Daniel Yoon"
+
+format:
+  html:
+    theme: cosmo
+    toc: false

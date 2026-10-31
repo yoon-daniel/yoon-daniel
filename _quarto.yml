@@ -9,13 +9,23 @@ website:
   title: "Daniel Yoon"
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Curriculum Vitae"
-        href: cv.pdf
+    - text: "Home"
+      href: index.qmd
+    - text: "Research"
+      href: research.qmd
+    - text: "Publications"
+      href: publications.qmd
+    - text: "Teaching"
+      href: teaching.qmd
+    - text: "Public Engagement"
+      href: publicengagement.qmd
+    - text: "Curriculum Vitae"
+      href: cv.pdf
+    - text: "Contact"
+      href: contact.qmd
 
   page-footer:
-    center: "© 2026 YOUR NAME"
+    center: "© 2026 Daniel Yoon"
 
 format:
   html:
