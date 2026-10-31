@@ -1,0 +1,23 @@
+
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - cv.pdf
+
+website:
+  title: "Daniel Yoon"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Curriculum Vitae"
+        href: cv.pdf
+
+  page-footer:
+    center: "© 2026 YOUR NAME"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
